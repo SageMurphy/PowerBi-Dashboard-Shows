@@ -4,6 +4,8 @@ This project involves analyzing a movies dataset using Power BI to derive meanin
 Dashboard : 
 
 ![{E4135BC8-7CB4-4B8A-89BA-2F122F48DD6E}](https://github.com/user-attachments/assets/0e040fd2-ff60-4416-accf-342ff1d6626e)
+ER Diagram :
+![{498F60F8-8752-4D9A-9265-FF028E132568}](https://github.com/user-attachments/assets/697155da-cb6e-418d-928e-6db2779c99ac)
 
 Dataset Description
 The dataset includes the following files:
