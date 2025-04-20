@@ -1,9 +1,9 @@
-# PowerBi-Dashboard-TV-Shows
+# PowerBi-Content-Lifecycle-Dashboard
 This project involves analyzing a movies dataset using Power BI to derive meaningful insights and visualize key metrics. The dataset comprises multiple CSV files containing information related to movies, such as titles, genres, ratings, revenue, and more. The objective is to create interactive dashboards and reports to help users explore trends and patterns within the movie industry.
 
 Dashboard : 
 
-![{E4135BC8-7CB4-4B8A-89BA-2F122F48DD6E}](https://github.com/user-attachments/assets/0e040fd2-ff60-4416-accf-342ff1d6626e)
+![{DF198575-8294-419E-BDFA-E910D4B71001}](https://github.com/user-attachments/assets/dd42256d-282d-4cc9-8b35-47d420bc9ae9)
 ER Diagram :
 ![{498F60F8-8752-4D9A-9265-FF028E132568}](https://github.com/user-attachments/assets/697155da-cb6e-418d-928e-6db2779c99ac)
 
