@@ -1,7 +1,7 @@
 # PowerBi-Content-Lifecycle-Dashboard
 This project involves analyzing a movies dataset using Power BI to derive meaningful insights and visualize key metrics. The dataset comprises multiple CSV files containing information related to movies, such as titles, genres, ratings, revenue, and more. The objective is to create interactive dashboards and reports to help users explore trends and patterns within the movie industry.
 
-Dashboard :
+## Dashboard :
 
 Overview Dashboard :
 ![1](https://github.com/user-attachments/assets/71fa2585-678b-47eb-81b6-d1cfa6379fe8)
@@ -25,9 +25,30 @@ ER Diagram :
  
 Dataset Description
 The dataset includes the following files:
+List of CSV Files:
 
-![Dataset-2025-04-25T12_57_54 725Z](https://github.com/user-attachments/assets/f7be4e29-6c1c-4ca2-907b-803ab272d16e)
-
+1. air_dates.csv
+2. created_by.csv
+3. created_by_types.csv
+4. genre_types.csv
+5. genres.csv
+6. language_types.csv
+7. languages.csv
+8. link_types.csv
+9. links.csv
+10. network_types.csv
+11. networks.csv
+12. origin_country_types.csv
+13. production_companies.csv
+14. production_company_types.csv
+15. production_countries.csv
+16. production_country_types.csv
+17. show_votes.csv
+18. shows.csv
+19. spoken_language_types.csv
+20. spoken_languages.csv
+21. status.csv
+22. types.csv
  
 DAX Queries Used
 The dax_queries.txt file includes custom DAX formulas.
@@ -49,5 +70,5 @@ Build visualizations and dashboards to analyze the data.
 Conclusion
 This Power BI project provides valuable insights into the movie industry, helping stakeholders make data-driven decisions related to movie production, marketing, and distribution.
 
-Author
+Author :
 Abhishek Shrimali
